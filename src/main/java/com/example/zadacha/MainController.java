@@ -20,6 +20,6 @@ public class MainController {
 
         model.addAttribute("printNumb1", list);
 
-        return "printNumbers";
+        return "index";
     }
 }
